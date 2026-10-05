@@ -1,0 +1,12 @@
+{
+  "id": "fatex-v14-compat",
+  "title": "FateX V14 Compatibility Shim",
+  "description": "Restores deprecated Foundry globals removed in V14 that FateX 1.5.4 still depends on.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": ["shim.js"],
+  "authors": [{ "name": "Starblazer Adventures Project" }]
+}
